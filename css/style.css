@@ -4,6 +4,38 @@
   color: white;
 }
 
+p {
+  position: absolute;
+  font-family: "Abril Fatface", cursive;
+  font-size: 70px;
+  top: 200px;
+  left: 600px;
+  width: 90%;
+  margin: 0 auto;
+  height: 50px;
+  color: white;
+}
+
+p1 {
+  position: absolute;
+  font-family: "Abril Fatface", cursive;
+  font-size: 70px;
+  top: 300px;
+  left: 600px;
+  width: 90%;
+  margin: 0 auto;
+  height: 50px;
+  color: white;
+}
+
+.centrar {
+  display: inline-block;
+}
+
+#thai {
+  font-family: "Abril Fatface", cursive;
+}
+
 #logoc {
   display: block;
   width: 10%;
@@ -17,6 +49,22 @@
 
 #foto {
   width: 100% !important;
+}
+
+#naomi {
+  width: 55%;
+  padding: 3px;
+}
+
+#thai {
+  padding: 3px;
+  border-color: #141413;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.oscuro {
+  background-color: black;
 }
 
 /*!
